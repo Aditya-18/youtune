@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gui</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graph">graph</string>
+    <string name="title_activity_audio__record">Audio_Record</string>
+    <string name="title_activity_xy_graph">xy_graph</string>
+</resources>
